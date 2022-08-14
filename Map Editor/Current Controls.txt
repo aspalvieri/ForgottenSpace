@@ -1,0 +1,12 @@
+Game Controls:
+wasd/arrow keys = move
+e = interact/pick up
+tab/i = open/close inventory
+esc = exit game
+
+Dev Controls:
+k = generate new map
+m = kill all enemies in map
+p = reset fps counter
+l = spawn enemy
+1 to 8 = spawn xth item
